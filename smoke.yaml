@@ -1,0 +1,14 @@
+name: smoke
+channels:
+  - defaults
+dependencies:
+       - python=3.10
+       - pip>=19.0
+       - pip:
+           - torch
+           - supervision
+           - ultralytics
+           - pathlib
+           - scikit-image
+           - matplotlib
+           - jupyter
