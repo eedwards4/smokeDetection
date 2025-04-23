@@ -1,4 +1,4 @@
-<h1>Smoke Detection</h1>
+<h1>Firewatch</h1>
 A YOLO model to detect fire and smoke. 
 
 Created by:
